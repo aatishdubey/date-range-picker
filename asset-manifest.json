@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/date-range-picker/static/css/main.ebd2718a.chunk.css",
+    "main.js": "/date-range-picker/static/js/main.4e41b852.chunk.js",
+    "main.js.map": "/date-range-picker/static/js/main.4e41b852.chunk.js.map",
+    "runtime-main.js": "/date-range-picker/static/js/runtime-main.a5ea90c0.js",
+    "runtime-main.js.map": "/date-range-picker/static/js/runtime-main.a5ea90c0.js.map",
+    "static/js/2.9e898a62.chunk.js": "/date-range-picker/static/js/2.9e898a62.chunk.js",
+    "static/js/2.9e898a62.chunk.js.map": "/date-range-picker/static/js/2.9e898a62.chunk.js.map",
+    "index.html": "/date-range-picker/index.html",
+    "precache-manifest.4910068192f23314fac8e0bdf45aeb3a.js": "/date-range-picker/precache-manifest.4910068192f23314fac8e0bdf45aeb3a.js",
+    "service-worker.js": "/date-range-picker/service-worker.js",
+    "static/css/main.ebd2718a.chunk.css.map": "/date-range-picker/static/css/main.ebd2718a.chunk.css.map",
+    "static/js/2.9e898a62.chunk.js.LICENSE.txt": "/date-range-picker/static/js/2.9e898a62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5ea90c0.js",
+    "static/js/2.9e898a62.chunk.js",
+    "static/css/main.ebd2718a.chunk.css",
+    "static/js/main.4e41b852.chunk.js"
+  ]
+}
